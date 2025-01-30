@@ -1,0 +1,1 @@
+This repository demonstrates a common Rust error involving data races that can occur when using raw pointers with vectors.  The `bug.rs` file showcases the problematic code, while `bugSolution.rs` offers a safe and correct solution using proper Rust borrowing mechanisms.
